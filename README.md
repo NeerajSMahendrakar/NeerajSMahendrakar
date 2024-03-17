@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development 
 - 🌱 I’m currently learning game and software development 
 - 💞️ I’m looking to collaborate on game and software development 
-- 📫 How to reach me through my LinkedIn account in my repository
+- 📫 How to reach me? through my LinkedIn account,Neeraj MAHENDRAKARS
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
